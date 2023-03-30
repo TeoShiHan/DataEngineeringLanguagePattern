@@ -15,5 +15,5 @@ hdfs_working_path_file = "/user/social_media/"
 hiveWarehouseDirectory = "hdfs://10.123.51.78:8020/user/hive/warehouse"
 hiveTriftServerAddress = "thrift://g2.bigtop.it:9083"
 
-## if remove_outliers is not favourable, change to True
+## if remove_outliers is not favourable, change to False
 remove_outliers = False
